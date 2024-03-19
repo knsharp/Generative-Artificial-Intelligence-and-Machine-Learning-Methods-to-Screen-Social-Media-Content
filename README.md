@@ -1,5 +1,6 @@
 # TikTok Pregnancy-Vape Data Collection README
 
+![image](https://github.com/computationalmedialab/PregnancyVape2024/assets/45355929/a23e4160-b714-456b-a9fe-2c7412e85759)
 ## Introduction
 This repository contains scripts for collecting data from TikTok, including videos, metadata, and visual insights. The data collection process involves several steps, each outlined below along with instructions for setup and usage.
 
