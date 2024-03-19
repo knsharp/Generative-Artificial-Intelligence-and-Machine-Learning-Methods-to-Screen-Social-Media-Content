@@ -29,7 +29,7 @@ This repository contains scripts for collecting data from TikTok, including vide
 - Set up whisper according to https://github.com/openai/whisper
 - Run whisperTranscriptGenerator
 
-### 5. Visual Insights Extraction
+### 5. Object and Text Detection
 - Extract image frames from videos at regular intervals.
 - Run framesGeneration.py
 - Analyze frames using Oracle Cloud Vision API to identify objects, text, faces, and other visual elements.
