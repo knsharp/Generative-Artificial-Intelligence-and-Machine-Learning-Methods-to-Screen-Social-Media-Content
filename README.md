@@ -41,8 +41,4 @@ This repository contains scripts for collecting data from TikTok, including vide
 - Customize script parameters as needed to suit specific data collection requirements.
 - Ensure proper API credentials, permissions and setup Oracle Cloud Vision API according to Oracle documentation.
 
-## Contributors
-- Rujula Singh Rajendra Singh
-- rujulasinghr@utexas.edu
-
 
